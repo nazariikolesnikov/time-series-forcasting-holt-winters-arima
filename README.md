@@ -1,5 +1,7 @@
 # Time Series Forcasting (Holt-Winters, ARIMA)
 
+This project focuses on time series analysis and forecasting future sales volumes based on the company’s historical data. The main goal is to build reliable predictive models to optimize business processes. The rohitsahoo-sales-forecasting.csv dataset is used for the analysis. The data includes detailed transaction information, such as order dates, customer information (name, segment), geographic data (country, region, city), as well as product details (category, subcategory) and financial metrics (sales). ARIMA and Auto ARIMA models, as well as the Holt-Winters Exponential Smoothing algorithm, are used to build forecasts.
+
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
