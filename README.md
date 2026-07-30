@@ -1,4 +1,4 @@
-# Time Series Forcasting (Holt-Winters, ARIMA)
+# Time Series Forcasting (Holt-Winters, ARIMA) (Practical Training)
 
 ## 🤖 Technologies
 
