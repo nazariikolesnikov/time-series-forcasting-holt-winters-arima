@@ -1,4 +1,4 @@
-# Time Series Forecasting (Holt-Winters, ARIMA, XGBoost, Random Forest) (Practical Training)
+# Time Series Forecasting (ARIMA, Holt-Winters, XGBoost, Random Forest) (Practical Training)
 
 ## 🤖 Technologies
 
