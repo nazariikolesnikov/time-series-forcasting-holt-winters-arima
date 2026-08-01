@@ -16,4 +16,4 @@ This project focuses on time series analysis and forecasting future sales volume
 
 <img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Comprehensive%20Sales%20Forecasting%20(ARIMA%2C%20Holt-Winters%2C%20XGBoost%2C%20Random%20Forest).png" />
 
-<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-holt-winters-arima/blob/main/Comprehensive%20Sales%20Forecasting%20(ARIMA%2C%20Holt-Winters%2C%20XGBoost%2C%20Random%20Forest).png" />
+<img width="5647" height="3107" alt="Time Series Forcasting (ARIMA)" src="https://github.com/nazariikolesnikov/time-series-forcasting-arima-holt-winters-xgboost-random-forest/blob/main/Seasonal%20Decompose.png" />
